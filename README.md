@@ -6,3 +6,5 @@ Ahoj
 
 # další změna
 Něco jsem změnila
+
+Změna ve větvi master.
